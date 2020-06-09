@@ -1,0 +1,38 @@
+body{
+  background-color:teal
+}
+
+.mainphoto {
+  width:15%;
+  height:auto;
+  text-align: center;
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+}
+.vote{
+  font-style: italic;
+  font-size:19px;
+}
+
+h1,h2{
+  color: pink;
+  text-align:center
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.menu{
+
+}
+
+.best{
+
+}
+
+.Hours{
+
+}
