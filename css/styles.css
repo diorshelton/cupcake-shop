@@ -17,6 +17,10 @@ body{
   text-align: center;
 }
 
+.best{
+  color: rgb(255, 255, 59)
+}
+
 h1,h2{
   color: pink;
   text-align:center;
